@@ -1,0 +1,36 @@
+html{
+	padding-bottom: 0px;
+}
+.logo{
+	width: 150px;
+}
+
+.tamanho{
+	height: 50px;
+	margin-top: 20px;
+
+}
+.descricao{
+	width: 200px;
+	height: 200px;
+}
+
+.lancamento{
+	width: 60px;
+}
+.formulario{
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.capas{
+	width: 170px;
+
+}
+
+.conteudo{
+	margin-top: 30px;
+}
+
+ul.dropdown-menu-right {
+	left: 30px; /* defina N, conforme sua necessidade, para deslocar o submenu na horizontal */
+  }
